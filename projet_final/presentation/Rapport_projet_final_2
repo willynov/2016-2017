@@ -1,0 +1,8 @@
+Message envoyé sur SLACK pour Jeff :
+
+Comme convenu, j'ai push un nouveau programme "reconnaissance_signatures_final_2", qui similaire à celui déjà push mais qui reconnait UNE SEULE signature parmit un dataset de PLUSIEURS signatures différente. Je met en majuscule car pour bien le différencier avec mon programme de base "reconnaissance_signatures_final" qui lui apprend PLUSIEURS signatures d'un même utilisateur puis indique si UNE SEULE signature (celle de fin du programme) est véridique.
+
+Ce qui fait que même si le nouveau programme est plus parlant car avec un cycle plus court (un lancement complet du programme suffit pour en faire le tour), il est tout de même moins précis car n'apprend pas éxécution après éxécution et ce, même j'avais enregistré les résultats dans un CSV. Ce dernier programme est donc adapté pour un faire un petit jeu mais pas adapté pour faire une utilisation précise et complexe comme c'est le cas pour une signature.
+> Mais je sais que c'est ce que tu voulais puisque c'était pour s'amuser à l'utiliser avec les étudiants de la classe :D
+  
+C'était très sympa en tout cas de faire les deux versions, ça ne tiendrait qu'à moi je ne m'arrêterai jamais de l'implémenter, il y a encore tellement de chose possible à faire avec ! Mais bon, il faut bien que je m'arrête un jour pour que tu m'évalues ;)
